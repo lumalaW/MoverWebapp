@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: at.downdrown.vaadinaddons:highchartsapi:2.2.1-QF">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/at/downdrown/vaadinaddons/highchartsapi/2.2.1-QF/highchartsapi-2.2.1-QF.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/at/downdrown/vaadinaddons/highchartsapi/2.2.1-QF/highchartsapi-2.2.1-QF-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/at/downdrown/vaadinaddons/highchartsapi/2.2.1-QF/highchartsapi-2.2.1-QF-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

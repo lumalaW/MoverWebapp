@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="moverWebApp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="vaadin-webapp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="moverWebApp:war exploded" />
+    </root>
+  </artifact>
+</component>
